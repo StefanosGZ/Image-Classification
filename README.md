@@ -7,6 +7,6 @@ The main coding language used was Python and main machine learning library Keras
 
 Files included are:
 Classification 1.py : The machine learning model code
-Xtest_Classification1.npy : A numpy array of the testing data
-Xtrain_Classification1.npy : A numpy array of the training data
-ytrain_Classification1.npy : A numpy array of the training labels
+- Xtest_Classification1.npy : A numpy array of the testing data
+- Xtrain_Classification1.npy : A numpy array of the training data
+- ytrain_Classification1.npy : A numpy array of the training labels
