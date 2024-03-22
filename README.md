@@ -4,3 +4,9 @@ A binary image classification project, where the model predicts whether a dermos
 The main coding language used was Python and main machine learning library Keras.
 
 ![image](https://github.com/StefanosGZ/Image-Classification/assets/124039272/4b0ded1a-0a18-48cd-b897-8f466b3f91be)
+
+Files included are:
+Classification 1.py : The machine learning model code
+Xtest_Classification1.npy : A numpy array of the testing data
+Xtrain_Classification1.npy : A numpy array of the training data
+ytrain_Classification1.npy : A numpy array of the training labels
